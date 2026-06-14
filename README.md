@@ -19,4 +19,4 @@ This project provides a clear, data-driven approach to predicting employee salar
 
 ### Model Performance:
 
-The model achieves an R2 score of [0.9711], indicating a high level of accuracy in capturing the variance in the salary dataset.
+* The model achieves an R2 score of [0.9711], indicating a high level of accuracy in capturing the variance in the salary dataset.
