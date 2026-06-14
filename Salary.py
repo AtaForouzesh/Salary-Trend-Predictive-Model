@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import r2_score
 
-data = pd.read_csv("Regressions/My Training Tasks/Salary_Data.csv")
+data = pd.read_csv("Salary_Data.csv")
 
 x = data.iloc[:, 0].values
 y = data.iloc[:, -1].values
