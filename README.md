@@ -7,13 +7,13 @@ This project provides a clear, data-driven approach to predicting employee salar
 
 ### Project Highlights
 
-Utilized Pandas and NumPy to clean and structure historical salary data.
+* Data Preprocessing: Utilized Pandas and NumPy to clean and structure historical salary data.
 
-Implemented a Scikit-Learn Linear Regression model to identify the underlying relationship between tenure and compensation.
+* Model Training: Implemented a Scikit-Learn Linear Regression model to identify the underlying relationship between tenure and compensation.
 
-Split the dataset into training and testing sets (80/20) to ensure the model performs accurately on unseen data.
+* Validation Strategy: Split the dataset into training and testing sets (80/20) to ensure the model performs accurately on unseen data.
 
-Used Matplotlib to generate a high-clarity regression plot, showcasing the predictive accuracy against actual test data.
+* Visualization: Used Matplotlib to generate a high-clarity regression plot, showcasing the predictive accuracy against actual test data.
 
 ---
 
